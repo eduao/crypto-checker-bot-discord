@@ -1,0 +1,26 @@
+{
+  "name": "project-discord-bot",
+  "version": "1.0.0",
+  "description": "- [ ] registrar e apagar os tokens no bot\r - [ ] Ler da api os tokens registrados (MAFA, BCOIN) - usd / brl / tendência das ultimas 30min em %\r     - [ ] coinmarketcap\r     - [ ] coingecko\r     - [ ] [cryptocompare](https://www.cryptocompare.com/)\r - [ ] Atualizar a informação do bot para os usuários para cada token (rotacionando entre mafa e bcoin as informações )\r     - [ ] [discord](https://discord.com/developers/docs/game-sdk/activities#updateactivity)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduao/crypto-checker-bot-discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduao/crypto-checker-bot-discord/issues"
+  },
+  "homepage": "https://github.com/eduao/crypto-checker-bot-discord#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
