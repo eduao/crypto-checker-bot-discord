@@ -9,4 +9,4 @@
 
 
 - analisar qual restrição tecnológica do:
-    -   [] discord
+    -   [ ] discord
